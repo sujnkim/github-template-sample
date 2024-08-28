@@ -1,8 +1,8 @@
 ---
-name: Feature Template
+name: "\U0001F680 FEATURE"
 about: 기능 추가 이슈 템플릿
-title: ''
-labels: ''
+title: feat
+labels: "\U0001F680 feat"
 assignees: ''
 
 ---
